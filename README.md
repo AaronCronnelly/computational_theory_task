@@ -26,11 +26,11 @@ Each task is documented with explanations, code, and tests to demonstrate unders
 | 1 | Binary Representations (`rotl`, `rotr`, `ch`, `maj`) | ✅ Completed |
 | 2 | C-style Hash Function (conversion & analysis) | ✅ Completed |
 | 3 | SHA256 Padding (bit-level structure) | ✅ Completed |
-| 4 | Prime Number Algorithms (x2 methods) | ⬜ In Progress |
-| 5 | Fractional Roots of Primes (32-bit) | ⬜ In Progress |
-| 6 | SHA256 Proof of Work (leading zeros) | ⬜ In Progress |
-| 7 | Turing Machine for Binary Increment | ⬜ In Progress |
-| 8 | Bubble Sort w/ Comparison Counter (All Permutations) | ⬜ In Progress |
+| 4 | Prime Number Algorithms (x2 methods) | ✅ Completed |
+| 5 | Fractional Roots of Primes (32-bit) | ✅ Completed |
+| 6 | SHA256 Proof of Work (leading zeros) | ✅ Completed |
+| 7 | Turing Machine for Binary Increment | ✅ Completed |
+| 8 | Bubble Sort w/ Comparison Counter (All Permutations) | ✅ Completed |
 
 ---
 
